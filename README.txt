@@ -1,28 +1,85 @@
-SHREYA SHARMA — PORTFOLIO
-=========================
+# Shreya Sharma | Personal Portfolio
 
-Built with: HTML, CSS, JavaScript (no framework required).
+Welcome to my personal portfolio! This website showcases my technical skills, projects, professional experience, and achievements as a Computer Science Engineering student and aspiring Full Stack Developer.
 
-HOW TO RUN
-1. Extract the ZIP.
-2. Open the Shreya_Premium_Portfolio_Updated folder.
-3. Double-click index.html, or open the folder in VS Code and use Live Server.
+## About
 
-PORTFOLIO CONTENT
-- Profile and skills updated using the supplied Shreya Sharma resume.
-- Projects: BHARAT-Freelance, CareerCopilot, and KrishiQueue.
-- Download CV button points to the supplied Shreya_Sharma_Resume.pdf.
-- Project demo links retained from the original portfolio where provided.
+I am a Computer Science undergraduate passionate about building web applications and exploring AI-powered solutions. I enjoy solving real-world problems through technology and continuously improving my development skills.
 
-BEFORE PUBLISHING
-- Replace the generic LinkedIn and LeetCode profile links with your exact profile URLs.
-- Verify each live project URL and update it if the deployment address changes.
-- Add a profile photo if desired; the current hero portrait is a designed initials placeholder.
+## Tech Stack
 
-PUBLISH
-- GitHub Pages: upload the extracted folder to a repository and enable Pages.
-- Netlify: deploy the extracted folder.
-- Vercel: import the repository or deploy the static folder.
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Programming Languages:** Java, JavaScript, Python
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
 
-NOTE
-External Google Fonts require internet access; system fonts will be used if offline.
+## Featured Projects
+
+### 1. CareerCopilot
+An AI-powered career assistance platform designed to help students prepare for placements through resume analysis, skill evaluation, and career recommendations.
+
+### 2. BHARAT-Freelance
+A freelance marketplace that connects clients and freelancers through project posting, browsing, and bidding features.
+
+[Live Demo](https://bharat-freelance-eight.vercel.app/)
+
+### 3. KrishiQueue
+A digital queue management platform designed for agricultural procurement centres, featuring farmer registration, token generation, queue tracking, and admin monitoring.
+
+[Live Demo](https://krishiqueue-platform.vercel.app/)
+
+## Portfolio Features
+
+- Responsive personal portfolio website
+- Professional introduction and technical skills
+- Featured projects with live demo links
+- Resume download functionality
+- Contact and social profile links
+- Modern UI with interactive elements
+
+## Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shreyachaturvedi-dev/Portfolio.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Portfolio
+   ```
+
+3. Open `index.html` in your browser.
+
+   Alternatively, open the folder in VS Code and run it using Live Server.
+
+## Deployment
+
+This portfolio can be deployed using:
+
+- GitHub Pages
+- Netlify
+- Vercel
+
+For GitHub Pages:
+1. Open repository Settings.
+2. Navigate to Pages.
+3. Select the `master` branch and `/ (root)` folder.
+4. Click Save.
+
+## Connect With Me
+
+- **GitHub:** [shreyachaturvedi-dev](https://github.com/shreyachaturvedi-dev)
+- **LinkedIn:** Add your LinkedIn profile URL.
+- **LeetCode:** Add your LeetCode profile URL.
+
+## License
+
+This project is intended for personal portfolio and educational purposes.
+
+---
+
+**Designed and developed by Shreya Sharma.**
